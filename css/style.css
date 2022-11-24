@@ -1,0 +1,301 @@
+/* lustria-regular - latin */
+@font-face {
+    font-family: 'Lustria';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/lustria-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/lustria-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* inter-regular - latin */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/inter-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  h1{
+    position: absolute;
+width: 126px;
+height: 52px;
+left: 88px;
+top: 69px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #748F06;
+
+text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.25);
+  }
+  .img1{
+    /* pngwing 2 */
+
+
+position: absolute;
+width: 66px;
+height: 83px;
+left: 30px;
+top: 39px;
+
+background: url(pngwing.png);
+  }
+  h2{
+    position: absolute;
+width: 86px;
+height: 33px;
+left: 314px;
+top: 67px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h3{
+    position: absolute;
+width: 73px;
+height: 23px;
+left: 455px;
+top: 67px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h4{
+    position: absolute;
+width: 114px;
+height: 20px;
+left: 575px;
+top: 67px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h5{
+    position: absolute;
+width: 110px;
+height: 25px;
+left: 739px;
+top: 67px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+
+  }
+  h6{
+    position: absolute;
+width: 230px;
+height: 16px;
+left: 920px;
+top: 68px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  .img2{
+    position: absolute;
+width: 45px;
+height: 47px;
+left: 1306px;
+top: 56px;
+
+background: url(pngwing);
+  }
+  h7{
+    position: absolute;
+width: 58px;
+height: 33px;
+left: 1351px;
+top: 67px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h8{
+    position: absolute;
+width: 992px;
+height: 160px;
+left: 240px;
+top: 145px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 51px;
+
+color: #000000;
+  }
+  .img3{
+    position: absolute;
+width: 744px;
+height: 404px;
+left: 326px;
+top: 328px;
+
+background: url(f39f3b7fabf1d16d37eb299ec2f4af84-1100x825.png);
+border-radius: 28px;
+  }
+  h9{
+    position: absolute;
+width: 864px;
+height: 62px;
+left: 238px;
+top: 745px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 51px;
+text-align: center;
+
+color: #000000;
+  }
+  .img4{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 245px;
+top: 807px;
+
+background: url(hachapuri-1.jpg);
+border-radius: 28px;
+  }
+  h10{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 278px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+  }
+  .img5{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 474px;
+top: 807px;
+
+background: url(Kak-sdelat-vino-iz-krasnoJ-chërnoJ-ili-beloJ-smorodiny-v-domashnix-usloviyax_1531526761.jpg);
+border-radius: 28px;
+  }
+  h11{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 507px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+
+  }
+  .img6{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 703px;
+top: 807px;
+
+background: url(photo.jpg);
+border-radius: 28px;
+  }
+  h12{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 736px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+
+  }
+  .img7{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 928px;
+top: 807px;
+
+background: url(bc25ed83.jpg);
+border-radius: 28px;
+  }
+  h13{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 965px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+  }
+  body
+  {
+  background: #A45F5F;
+  }
+  
